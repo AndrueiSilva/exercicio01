@@ -1,8 +1,6 @@
 A: echo 01 > arquivo.txt
-foi criado o arquivo.txt
 
 B: git add arquivo.txt
-o arquivo foi adicionado ao modo de staging
 
 C: git commit -m "git add example - arquivo.txt"
 [main (root-commit) 98b1782] git add example - arquivo.txt
